@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HW_009_OnlinerParcer_Zviagov</string>
+    <string name="peoples">Люди</string>
+    <string name="auto">Авто</string>
+    <string name="tech">Технологии</string>
+    <string name="realty">Недвижимость</string>
+
+</resources>
